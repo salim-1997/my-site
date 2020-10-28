@@ -1,0 +1,43 @@
+.top{
+  background-color: #01c5c4;
+  position: relative;
+}
+h1{
+width: 10%;
+margin: 0 auto;
+padding: 20px;
+}
+p{
+  width: 10%;
+  margin: 0 auto;
+  padding: 20px;
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: Papyrus,fantasy;
+}
+.bottom-cloud{
+  position: absolute;
+}
+.top-cloud{
+  position: absolute;
+  right: 30px;
+  top: 20px;
+}
+.title{
+  font-size: 300%;
+  padding-top: 100px;
+}
+.middle-container{
+  background-color: #b8de6f;
+}
+.skills{
+  background-color: #f1e189;
+}
+.contact-me{
+  background-color: #f39233;
+}
+.bottom-container{
+  background-color: #f39233;
+}
